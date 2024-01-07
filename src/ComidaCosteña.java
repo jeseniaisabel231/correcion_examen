@@ -26,19 +26,21 @@ public class ComidaCosteña extends ComidaTipica {
     public void setRegion(String region) {
         Region = region;
     }
+
     //metodo personalisado
     public void entradatos(){
         Scanner entrada = new Scanner(System.in);
-        System.out.println("Ingrese el ingrediente principal del plato: ");
+        System.out.print("Ingrese el ingrediente principal del plato: ");
         ingredientePrincipal= entrada.nextLine();
 
-        System.out.println("Ingrese la region de ese plato: ");
+        System.out.print("Ingrese la region de ese plato: ");
         Region= entrada.nextLine();
 
         setIngredientePrincipal(ingredientePrincipal);
         setRegion(Region);
     }
     public void salida(){
+        System.out.println("Nombre del plato: "+getNombre());
         System.out.println("Su ingrediente principal es: "+getIngredientePrincipal());
         System.out.println("La region a la que pertenece es: "+getRegion());
     }
