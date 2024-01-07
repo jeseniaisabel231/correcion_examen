@@ -1,4 +1,3 @@
-public class ComidaSerrana extends ComidaTipica
-{
+public class ComidaSerrana extends ComidaTipica{
 
 }

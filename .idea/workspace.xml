@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6911bbe7-87c4-4771-ae66-b8edf24fdffb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ceviche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComidaCosteña.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComidaSerrana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComidaTipica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cuye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FriatadaMote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Granos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ceviche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ceviche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComidaCosteña.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComidaCosteña.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComidaSerrana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComidaSerrana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ComidaTipica.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ComidaTipica.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FriatadaMote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FriatadaMote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,9 +28,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2aXjHxf84ZukgfJQmbuw1vna6t6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,6 +43,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/Desktop/DESARROLLO DE SOFTWARE/TERCER SEMESTRE/POO/ejerciciopoo/correcion_examen",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -61,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704471737127</updated>
       <workItem from="1704471738200" duration="2879000" />
+      <workItem from="1704640959162" duration="1875000" />
     </task>
     <servers />
   </component>

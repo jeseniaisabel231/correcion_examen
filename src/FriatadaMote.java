@@ -1,2 +1,2 @@
-public class FriatadaMote {
+public class FriatadaMote extends Granos {
 }
