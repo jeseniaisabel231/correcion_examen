@@ -2,38 +2,62 @@
    Son metodos utilizados en Jva para proteger los datos, un getter devuelve el valor de una variable mientras
    que un setter establece o actualiza el valor de una variable.
    EJEMPLO CON CODIGO
-   public class gatito {
+   import java.util.Scanner;
+
+public class gatito {
     //atributos
     public String nombre;
     public String raza;
     public String color;
 
     //constructor
+
     public gatito(String nombre, String raza, String color) {
         this.nombre = nombre;
         this.raza = raza;
         this.color = color;
     }
+
     //metodos
+
     public String getNombre() {
         return nombre;
     }
+
     public void setNombre(String nombre) {
         this.nombre = nombre;
     }
+
     public String getRaza() {
         return raza;
     }
+
     public void setRaza(String raza) {
         this.raza = raza;
     }
+
     public String getColor() {
         return color;
     }
+
     public void setColor(String color) {
         this.color = color;
     }
-   }
+
+    //metodo entrada de datos
+    public void salidaDatos(){
+        System.out.println("nombre: " + getNombre());
+        System.out.println("color: " + getColor());
+        System.out.println("raza: " + getRaza());
+    }
+    public void entradaDatos(){
+        Scanner amor= new Scanner(System.in);
+        System.out.println("Ingrese el nombre del gato que desea cambiar: ");
+        nombre=amor.nextLine();
+        setNombre(nombre);
+    }
+}
+
    
 2. Indique la secuencia de comandos de git que permiten clonar un repositorio traer los ultimos cambios
    y una ves actualizar los cambios.
